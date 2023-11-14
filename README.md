@@ -1,6 +1,6 @@
 # pokedex
 
-Site criando ao consumir a API Pokeapi.co utilizando a biblioteca AXIOS, Conjuntamente ao Framework VUE
+Site criado ao consumir a API: Pokeapi.co. Utilizando a biblioteca AXIOS, Conjuntamente ao Framework VUE.
 
 
 
