@@ -1,5 +1,14 @@
 # pokedex
 
+Site criando ao consumir a API Pokeapi.co utilizando a biblioteca AXIOS, Conjuntamente ao Framework VUE
+
+
+
+
+
+
+# VUE COMMANDS
+
 ## Project setup
 ```
 npm install
